@@ -1,29 +1,37 @@
 #main-div {
-  text-align: center;
   margin-top: 100px;
   margin-bottom: 120px;
 }
 
-#btn-link {
+.container {
+  max-width: 600px;
+}
+
+
+#main-btn {
   padding: 10px 20px 10px 20px;
   border-radius: 5px;
-  background: blue;
   text-decoration: none;
-  color: white;
-  font-size: 50px;
+  font-size: 30px;
+  color:#fff;
+  background-color:#008cba;
+  border-color:#0079a1;
+  max-width: 400px;
+  text-align: center;
+}
+
+#main-btn:hover {
+  background-color:#006d91;
+  border-color:#004b63;
+  cursor:pointer;
 }
 
 #name {
   font-size: 60px;
-  width: 800px;
   margin: 0 auto;
-  text-align: center;
 }
 
 #description {
   margin: 0 auto;
-  margin-top: 40px;
-  width: 800px;
   font-size: 25px;
-  text-align: justify;
 }

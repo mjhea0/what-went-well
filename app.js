@@ -44,7 +44,7 @@ app.get('/searching', function(req, res){
     var item = $(items)[randNum];
     var name = $(item).find('strong').text();
     var description = $(item).text().slice(name.length + 3);
-    res.send('<div id="name">'+name+'</div><div id="description">'+description+'</div>');
+    res.send('<div id="name">'+name+'</div><div id="description">"'+description+'"</div>');
   });
 });
 
