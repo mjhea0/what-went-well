@@ -4,8 +4,8 @@
 
 **Mike** - I’m sharing the concept of positivity with anyone reading this.
 
-**Mike** - I made a web app.
+**Mike** - I made a web app. <3
 
 **Mike** - I gave an old woman my hat on the bus on a day it was negative five degrees outside.
 
-**Mike** - I had my favorite last night: spaghetti, and I played checkers with my Richard, and I won.
+**Mike** - I had my favorite last night: spaghetti, and I played checkers with Richard - and won!

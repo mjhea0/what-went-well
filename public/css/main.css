@@ -1,9 +1,4 @@
-body {
-  font-family: 'Lato', sans-serif !important;
-  background: #DDDCE2 url('../images/content_bg.jpg') repeat left top;
-}
-
-#btn-div {
+#main-div {
   text-align: center;
   margin-top: 100px;
   margin-bottom: 120px;
@@ -18,16 +13,7 @@ body {
   font-size: 50px;
 }
 
-.container {
-  padding-top: 50px;
-  max-width: 600px;
-}
-
-#btn-link:hover {
-  color: #FFFF00
-}
-
-#title {
+#name {
   font-size: 60px;
   width: 800px;
   margin: 0 auto;

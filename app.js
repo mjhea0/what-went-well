@@ -39,12 +39,12 @@ app.get('/searching', function(req, res){
   };	
   request(request_options, function(err, resp, body) {
     $ = cheerio.load(body)
-  	var projects = $('.markdown-body p');
-    var randNum = Math.floor(Math.random() * projects.length);
-    var project = $(projects)[randNum];
-    var title = $(project).find('strong').text();
-    var description = $(project).text().slice(title.length + 3);
-    res.send('<h2>'+title+'</h2><br><h3>'+description+'</h3>');
+  	var items = $('.markdown-body p');
+    var randNum = Math.floor(Math.random() * items.length);
+    var item = $(items)[randNum];
+    var name = $(item).find('strong').text();
+    var description = $(item).text().slice(name.length + 3);
+    res.send('<div id="name">'+name+'</div><div id="description">'+description+'</div>');
   });
 });
 
