@@ -1,0 +1,43 @@
+body {
+  font-family: 'Lato', sans-serif !important;
+  background: #DDDCE2 url('../images/content_bg.jpg') repeat left top;
+}
+
+#btn-div {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 120px;
+}
+
+#btn-link {
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+  background: blue;
+  text-decoration: none;
+  color: white;
+  font-size: 50px;
+}
+
+.container {
+  padding-top: 50px;
+  max-width: 600px;
+}
+
+#btn-link:hover {
+  color: #FFFF00
+}
+
+#title {
+  font-size: 60px;
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#description {
+  margin: 0 auto;
+  margin-top: 40px;
+  width: 800px;
+  font-size: 25px;
+  text-align: justify;
+}
