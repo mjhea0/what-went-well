@@ -1,9 +1,11 @@
-**Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
+**Mike** - Raphael picked up my favorite ice cream for dessert on the way home from work today.
 
-**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+**Mike** - I solved the Fibonacci Sequence with my eyes closed.
 
-**Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
+**Mike** - I’m sharing the concept of positivity with anyone reading this.
 
-**Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.
+**Mike** - I made a web app.
 
-**Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+**Mike** - I gave an old woman my hat on the bus on a day it was negative five degrees outside.
+
+**Mike** - I had my favorite last night: spaghetti, and I played checkers with my Richard, and I won.
